@@ -3,17 +3,21 @@
 Developer-focused Arch Linux distro with Rust tooling.
 
 ```
-                                                                                                     
-8 888888888o   8 8888888888            .8.          8 888888888o.      ,o888888o.    8 8888        8 
-8 8888    `88. 8 8888                 .888.         8 8888    `88.    8888     `88.  8 8888        8 
-8 8888     `88 8 8888                :88888.        8 8888     `88 ,8 8888       `8. 8 8888        8 
-8 8888     ,88 8 8888               . `88888.       8 8888     ,88 88 8888           8 8888        8 
-8 8888.   ,88' 8 888888888888      .8. `88888.      8 8888.   ,88' 88 8888           8 8888        8 
-8 8888888888   8 8888             .8`8. `88888.     8 888888888P'  88 8888           8 8888        8 
-8 8888    `88. 8 8888            .8' `8. `88888.    8 8888`8b      88 8888           8 8888888888888 
-8 8888      88 8 8888           .8'   `8. `88888.   8 8888 `8b.    `8 8888       .8' 8 8888        8 
-8 8888    ,88' 8 8888          .888888888. `88888.  8 8888   `8b.     8888     ,88'  8 8888        8 
-8 888888888P   8 888888888888 .8'       `8. `88888. 8 8888     `88.    `8888888P'    8 8888        8 
+ .S_SSSs      sSSs   .S_SSSs     .S_sSSs      sSSs   .S    S.         S.       .S   .S_sSSs     .S       S.    .S S.   
+.SS~SSSSS    d%%SP  .SS~SSSSS   .SS~YS%%b    d%%SP  .SS    SS.        SS.     .SS  .SS~YS%%b   .SS       SS.  .SS SS.  
+S%S   SSSS  d%S'    S%S   SSSS  S%S   `S%b  d%S'    S%S    S%S        S%S     S%S  S%S   `S%b  S%S       S%S  S%S S%S  
+S%S    S%S  S%S     S%S    S%S  S%S    S%S  S%S     S%S    S%S        S%S     S%S  S%S    S%S  S%S       S%S  S%S S%S  
+S%S SSSS%P  S&S     S%S SSSS%S  S%S    d*S  S&S     S%S SSSS%S        S&S     S&S  S%S    S&S  S&S       S&S  S%S S%S  
+S&S  SSSY   S&S_Ss  S&S  SSS%S  S&S   .S*S  S&S     S&S  SSS&S        S&S     S&S  S&S    S&S  S&S       S&S   SS SS   
+S&S    S&S  S&S~SP  S&S    S&S  S&S_sdSSS   S&S     S&S    S&S        S&S     S&S  S&S    S&S  S&S       S&S    S_S    
+S&S    S&S  S&S     S&S    S&S  S&S~YSY%b   S&S     S&S    S&S        S&S     S&S  S&S    S&S  S&S       S&S   SS~SS   
+S*S    S&S  S*b     S*S    S&S  S*S   `S%b  S*b     S*S    S*S        S*b     S*S  S*S    S*S  S*b       d*S  S*S S*S  
+S*S    S*S  S*S.    S*S    S*S  S*S    S%S  S*S.    S*S    S*S        S*S.    S*S  S*S    S*S  S*S.     .S*S  S*S S*S  
+S*S SSSSP    SSSbs  S*S    S*S  S*S    S&S   SSSbs  S*S    S*S         SSSbs  S*S  S*S    S*S   SSSbs_sdSSS   S*S S*S  
+S*S  SSY      YSSP  SSS    S*S  S*S    SSS    YSSP  SSS    S*S          YSSP  S*S  S*S    SSS    YSSP~YSSY    S*S S*S  
+SP                         SP   SP                         SP                 SP   SP                         SP       
+Y                          Y    Y                          Y                  Y    Y                          Y        
+                                                                                                                       
 ```
 
 ## Tools
